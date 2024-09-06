@@ -3,4 +3,4 @@
  -sou estudante do ensino médio
   - estou estudando o https://cursos.alura.com.br/dashboardd4
   - utilizo esse espaço para minha organizaçao e compartilho dos meus projeto
-  - https://tenor.com/pt-BR/view/mcqueen-gif-9449693085032454841
+  https://media1.tenor.com/m/gyQNy1HTGrkAAAAC/mcqueen.gif
